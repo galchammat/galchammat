@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=galchammat&show_icons=true&theme=dark&hide=stars&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=4ec9b0&icon_color=4ec9b0&text_color=d4d4d4)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=galchammat&show_icons=true&theme=dark&hide=stars,contribs&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=4ec9b0&icon_color=4ec9b0&text_color=d4d4d4)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galchammat&theme=dark&layout=compact&hide=text,json,markdown,yaml,xml,toml,ini,cfg,jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=4ec9b0&text_color=d4d4d4)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galchammat&theme=dark&layout=compact&hide=text,json,markdown,yaml,xml,toml,ini,cfg,jupyter%20notebook&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ec9b0&text_color=d4d4d4)
 
 ---
 
