@@ -6,7 +6,7 @@
     style="margin-right: 8px;"
   />
   <img 
-    src="https://github-readme-stats-git-master-ghazi-alchammats-projects.vercel.app/api/top-langs/?username=galchammat&theme=dark&layout=compact&hide=text,json,markdown,yaml,xml,toml,ini,cfg,jupyter%20notebook,css&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ec9b0&text_color=d4d4d4&card_width=495" 
+    src="https://github-readme-stats-git-master-ghazi-alchammats-projects.vercel.app/api/top-langs/?username=galchammat&exclude_repo=normal-bot-2&theme=dark&layout=compact&hide=text,json,markdown,yaml,xml,toml,ini,cfg,jupyter%20notebook,css&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ec9b0&text_color=d4d4d4&card_width=495" 
     alt="Top Languages" 
     height="120"
   />
